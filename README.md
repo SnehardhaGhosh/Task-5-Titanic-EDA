@@ -46,16 +46,5 @@ Additionally, a `gender_submission.csv` file is included for reference.
 1. Clone the repository:
    ```bash
    git clone https://github.com/SnehardhaGhosh/Task-5-Titanic-EDA.git
-Navigate to the folder:
 
-   ```bash
-cd Task-5-Titanic-EDA
-Open the notebook in Jupyter:
 
-   ```bash
-      jupyter notebook titanic.ipynb
-Author
-Snehardha Ghosh
-
-License
-This project is licensed under the MIT License.
